@@ -1,0 +1,74 @@
+th{
+    background: darkgrey;
+}
+h1{
+    background-color: rgb(106, 106, 236);
+    width: 400px;
+    border-radius: 2rem;
+}
+body{
+    background-color: gainsboro;
+}
+a{
+    text-decoration: none;
+    margin: 100px;
+}
+.link{
+    display: flex;
+    font-size: 20px;
+    font-family: fantasy;
+    color: palegoldenrod;
+    background-color: whitesmoke;
+}
+.card{
+    font-size: 40px;
+    font-family: fantasy;
+    background-color: rgb(156, 156, 237);
+    color: whitesmoke;
+
+}
+a:hover{
+    background-color: bisque;
+    border-radius: 2rem;
+    width: 280px;
+    height: 40px;
+}
+.view{
+    background-color: rgb(179, 190, 203);
+}
+.register{
+    background-color: rgb(179, 190, 203);
+}
+form{
+    width: 400px;
+    height: 380px;
+    border-radius: 2rem;
+    background-color: whitesmoke;
+}
+input{
+    background: transparent;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 4px solid black;
+    border-radius: 2rem;
+}
+button{
+    border-radius: 2rem;
+    width: 100px;
+    background-color: rgb(105, 105, 162);
+    color: white;
+}
+button:hover{
+    background-color: rgb(227, 89, 89);
+    
+}
+.acount{
+     background-color: rgb(179, 190, 203);
+}
+.forms{
+      width: 200px;
+    height: 180px;
+    border-radius: 2rem;
+    background-color: whitesmoke;
+}
